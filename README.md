@@ -1,1 +1,0 @@
-# Network-Wide-Ad-Blocking-with-Pi-hole
